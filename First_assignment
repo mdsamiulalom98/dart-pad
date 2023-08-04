@@ -1,0 +1,37 @@
+// this is my code
+
+void main() {
+  
+   const a = 50;
+  const b = 25;
+  //this for addition
+  int x = a+b;
+  print('Addition is = $x');
+  
+  //this for subtraction
+  int y = a-b;
+  print('Subtraction is = $y');
+  
+  //this for multiplication
+  int z = a*b;
+  print('Multiplication is = $z');
+  
+  //this for division
+  double w = a/b;
+  print('Division is = $w');
+  
+  //This for Modulus 
+  int u = a%b;
+  
+  print('Modulus is = $u');
+  
+  
+}
+// And This is the Output
+
+
+Addition is = 75
+Subtraction is = 25
+Multiplication is = 1250
+Division is = 2
+Modulus is = 0
